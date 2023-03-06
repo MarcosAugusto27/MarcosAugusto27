@@ -15,8 +15,7 @@
 <img align="center" alt="Rafa-sqlserver" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 
-
- ##
+##
  
  <div>
   <a href="https://www.instagram.com/marcosaugustos20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
