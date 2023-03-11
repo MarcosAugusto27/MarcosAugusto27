@@ -2,7 +2,8 @@
 ### Seja bem-vindo ao meu GitHub
 
 - 🔭 Desejo trabralhar com Back-End 
-- 🌱 Estudando Desenvolvimento de Sistemas focado no Back-End jr | JAVA|
+- 🌱 Estudando Desenvolvimento de Sistemas focado no Back-End jr | JAVA| SQL |
+##
 <div align="center">
   <a href="https://github.com/MarcosAugusto27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosaugusto27&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -22,4 +23,5 @@
   <a href = "mailto:marcosaugusto271322gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcosaugusto27/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ ##
  </div>
