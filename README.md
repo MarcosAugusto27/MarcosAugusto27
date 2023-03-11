@@ -3,12 +3,12 @@
 
 - 🔭 Desejo trabralhar com Back-End 
 - 🌱 Estudando Desenvolvimento de Sistemas focado no Back-End jr | JAVA|
-
-<div>
-<a href="https://github.com/MarcosAugusto27">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosAugusto27&show_icons-true&theme-dracula&include_all_commits=true&count private-true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAugusto27&layout=compact&langs_count=168&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/MarcosAugusto27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosaugusto27&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosaugusto27&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-java" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
